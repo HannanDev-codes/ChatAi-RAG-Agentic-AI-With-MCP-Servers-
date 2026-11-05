@@ -1,0 +1,16 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+.DS_Store
+*.egg-info/
+outputs/
+
+.venv/
+data/memory.db*
+.env.*
+!.env.example
+uploads/
+data/*.db*
+.pytest_cache/

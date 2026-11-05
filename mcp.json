@@ -1,0 +1,28 @@
+{
+  "servers": {
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "memory-dev": {
+      "type": "stdio",
+      "command": "${input:projectPython}",
+      "args": [
+        "-m",
+        "backend.mcp_memory_dev_server"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "MCP_SAFE_ROOT": "${workspaceFolder}"
+      }
+    }
+  },
+  "inputs": [
+    {
+      "id": "projectPython",
+      "type": "promptString",
+      "description": "Absolute path to your project virtual environment Python executable",
+      "default": "python"
+    }
+  ]
+}

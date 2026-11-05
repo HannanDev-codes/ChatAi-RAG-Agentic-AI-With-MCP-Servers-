@@ -1,0 +1,24 @@
+Acme Robotics — Internal Knowledge Base (Sample)
+
+Company overview
+Acme Robotics was founded in 2019 in Austin, Texas. We build collaborative robot arms for small manufacturers. Our flagship product is the AR-7 cobot, released in 2023.
+
+Products
+- AR-7: 7 kg payload, 900 mm reach, price starts at $18,500.
+- AR-3: smaller arm for education, payload 3 kg, price $6,900.
+- VisionKit: optional camera module for AR-7, adds $2,200.
+
+Support hours
+Technical support is available Monday–Friday, 9:00–18:00 Central Time.
+Emergency hardware support for enterprise customers is 24/7 via +1-555-0100.
+
+Password and account
+Employees reset software portal passwords at https://portal.acmerobotics.example/reset
+Never share admin credentials. MFA is required for all staff accounts.
+
+Return policy
+Hardware can be returned within 30 days of delivery if unused and in original packaging.
+Software licenses are non-refundable after activation.
+
+2024 revenue note
+Preliminary internal figure: $42 million revenue in FY2024, up from $28 million in FY2023.
